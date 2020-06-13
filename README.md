@@ -106,7 +106,8 @@ Website Dashboard: <>
 
 Responder Website: <>
 
-Real-time Car Crash Recognition: <https://youtu.be/0Owg8Iriz28>
+Real-time Car Crash Recognition: [![Real Time Car Crash Recognition](http://img.youtube.com/vi/0Owg8Iriz28/0.jpg)](http://www.youtube.com/watch?v=0Owg8Iriz28 "Real Time Car Crash Recognition")
+
 
 # Technologies Used
 
