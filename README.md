@@ -17,7 +17,7 @@ It consists of a responder mobile website and a SCDF personnel administrative we
 
 Using Waterfall, instead of the traditional voice-call to relay information slowly, responders can upload photographs of the situation and provide geo-location tags from the mobile phone’s in-built GPS. By leveraging IBM cloud’s image recognition, images uploaded will be used to assess and immediately classify the emergency situation accurately in real-time.
 
-These essential information will be clearly displayed as a dashboard on Waterfall for SCDF personnel. Waterfall will also give helpful guides to responders and these guides are translated to multiple languages using the IBM Watson Translator.
+These essential information will be clearly displayed as a dashboard on Waterfall for SCDF personnel. Waterfall will also provide helpful guides to responders and these guides are translated to multiple languages using the IBM Watson Translator. With the IBM Watson Text To Speech, these guides will be available in the form of both text and audio.
 
 # The architecture of your proposed solution
 ![architecture](/assets/architecture.png)
