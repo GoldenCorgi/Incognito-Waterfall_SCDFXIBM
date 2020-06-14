@@ -1,15 +1,17 @@
 # Who are we?
-Hi, we are Team Incognito, comprising of You Sheng, Qingyi, Joey and Chloe. We are currently year 1 students from Nanyang Technological University, studying Business and Computing.
+Hi, we are Team Incognito, comprising of You Sheng, Qingyi, Joey and Chloe. We are currently Year 1 students from Nanyang Technological University, studying Business and Computing.
 
-# What’s the problem?
+# Short Description
+
+## What’s the problem?
 
 During traditional emergency voice calls, people may panic and it would take time to convey important information for SCDF Operators to dispatch. However, time is key in such emergencies and every second could make the difference between life and death.
 
-# How can technology help?
+## How can technology help?
 
 Web technology, analytics and machine learning can be used for increased effectiveness in communication of detailed and reliable information for such emergency situations, which can help to minimise emergency response time.
 
-# The idea
+## The idea
 
 ![slogan](/assets/slogan.png)
 
