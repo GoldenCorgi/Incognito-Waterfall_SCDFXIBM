@@ -117,17 +117,16 @@ The website dashboard is real-time, and will display changes made by the respond
 
 [![Real Time Car Crash Recognition](http://img.youtube.com/vi/0Owg8Iriz28/0.jpg)](http://www.youtube.com/watch?v=0Owg8Iriz28 "Real Time Car Crash Recognition")
 
-# Technologies Used
+# Technologies Used / Built With
 
 Current Prototype:
 
-- IBM Cloud Foundry
-- Python - Flask
-- IBM Visual Recognition
-- IBM Language Translator
-- IBM Cloudant
+- [IBM Cloud Foundry](https://www.ibm.com/cloud/cloud-foundry) - Web Server Hosting
+- [Flask](https://flask.palletsprojects.com/en/1.1.x/) - Web Application Framework
+- [IBM Visual Recognition](https://www.ibm.com/cloud/watson-visual-recognition) - AI Image Classification Model
+- [IBM Language Translator](https://www.ibm.com/cloud/watson-language-translator) - NLP Translation Model
+- [IBM Cloudant](https://www.ibm.com/cloud/cloudant) - Database
 
 Planned Future:
-
-- IBM Text To Speech
-- Twilio
+- [IBM Text To Speech](https://www.ibm.com/cloud/watson-text-to-speech) - NLP Audio Generator
+- [Twilio](https://www.twilio.com/sms) - Programmable SMS System
