@@ -24,7 +24,7 @@ These essential information will be clearly displayed as a dashboard on Waterfal
 
 # Detailed description
 
-More details available here (https://github.com/GoldenCorgi/Incognito-Waterfall_SCDFXIBM/tree/master/detailed_description)
+[More details available here](https://github.com/GoldenCorgi/Incognito-Waterfall_SCDFXIBM/tree/master/detailed_description)
 
 # Project Roadmap / Proposed timeline
 
