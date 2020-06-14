@@ -1,3 +1,5 @@
+# Who are we?
+Hi, we are Team Incognito, comprising of You Sheng, Qingyi, Joey and Chloe. We are currently year 1 students from Nanyang Technological University, studying Business and Computing.
 
 # What’s the problem?
 
@@ -22,6 +24,12 @@ These essential information will be clearly displayed as a dashboard on Waterfal
 # The architecture of your proposed solution
 
 ![architecture](/assets/architecture.png)
+
+1. The first responder navigates to the website and uploads a photo together with their geo-location tags using their mobile phone in-built GPS.
+2. First responder is directed to helpful emergency guides which can be translated to multiple languages using IBM Watson Language Translator.
+3. IBM Watson Text to Speech makes the guides available in the form of both text and audio.
+4. IBM Watson Visual Recognition processes the uploaded image and immediately classifies the emergency situation which appears on the Web Dashboard for SCDF operators.
+
 
 # Detailed description
 
