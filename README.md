@@ -17,8 +17,6 @@ Web technology, analytics and machine learning can be used for increased effecti
 
 ## The idea
 
-![slogan](/assets/slogan.png)
-
 Waterfall is a web application which utilises IBM cloud’s machine learning and AI for effective relaying of information between responders and SCDF personnel to provide even faster emergency response time.
 
 It consists of a responder mobile website and a SCDF personnel administrative website. In the case of an emergency, First Responders can opt to message 995, to receive a SMS link to our website, Waterfall.
