@@ -1,4 +1,7 @@
 
+# Who are we?
+Hi, we are Team Incognito, comprising of You Sheng, Qingyi, Joey and Chloe. We are currently year 1 students from Nanyang Technological University, studying Business and Computing.
+
 # What’s the problem?
 
 During traditional emergency voice calls, people may panic and it would take time to convey important information for SCDF Operators to dispatch. However, time is key in such emergencies and every second could make the difference between life and death.
