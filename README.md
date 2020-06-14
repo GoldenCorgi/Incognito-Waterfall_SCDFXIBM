@@ -115,7 +115,7 @@ Responder Website: <https://scdf-incognito.us-south.cf.appdomain.cloud/responder
 
 ### Pitch Demo
 
-<>
+[![Pitch Demo](http://img.youtube.com/vi/1HaF9XjFhiY/0.jpg)](http://www.youtube.com/watch?v=1HaF9XjFhiY "Pitch Demo")
 
 ### Real-time Car Crash Recognition
 
