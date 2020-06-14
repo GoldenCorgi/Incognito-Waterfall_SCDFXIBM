@@ -31,11 +31,19 @@ These essential information will be clearly displayed as a dashboard on Waterfal
 
 ![architecture](/assets/architecture.png)
 
+
+### Responder
+
 1. The first responder navigates to the website and uploads a photo together with their geo-location tags using their mobile phone in-built GPS.
 2. First responder is directed to helpful emergency guides which can be translated to multiple languages using IBM Watson Language Translator.
 3. IBM Watson Text to Speech makes the guides available in the form of both text and audio.
 4. IBM Watson Visual Recognition processes the uploaded image and immediately classifies the emergency situation which appears on the Web Dashboard for SCDF operators.
 
+### SCDF Operator
+
+1. Once the responder uploads the photo, the photo will be sent to the IBM Watson Visual Recognition model, to classify the incident type as well as the severity.
+2. The details will be stored in a nicely labelled table  in IBM Cloudant database, along with GPS location, to be displayed on the website dashboard that the operator will be using.
+3. The operator can then use the information given to assign priority to the cases, and dispatch the appropriate amount of resources.
 
 # Detailed description
 
@@ -45,6 +53,7 @@ These essential information will be clearly displayed as a dashboard on Waterfal
 
 ![roadmap](/assets/roadmap.png)
 
+![roadmap2](/assets/roadmap-2.png)
 
 Our group has developed a working prototype at the link given (Please contact us if the website is not up, as IBM Cloud Foundry Free Tier will stop running after a few days of inactivity. Some of the AI have API limits as well, do let us know if there are any issues with the features mentioned).
 
