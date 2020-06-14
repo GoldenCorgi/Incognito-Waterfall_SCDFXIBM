@@ -85,9 +85,9 @@ The website dashboard is real-time, and will display changes made by the respond
 
 ### Pitch Demo
 
-<http://www.youtube.com/watch?v=1HaF9XjFhiY>
+<http://www.youtube.com/watch?v=Q1LbVQgTQkU>
 
-[![Pitch Demo](http://img.youtube.com/vi/1HaF9XjFhiY/0.jpg)](http://www.youtube.com/watch?v=1HaF9XjFhiY "Pitch Demo")
+[![Pitch Demo](http://img.youtube.com/vi/Q1LbVQgTQkU/0.jpg)](http://www.youtube.com/watch?v=Q1LbVQgTQkU "Pitch Demo")
 
 ### Real-time Car Crash Recognition
 
