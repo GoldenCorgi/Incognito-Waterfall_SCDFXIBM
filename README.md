@@ -1,3 +1,7 @@
+# WATERFALL
+
+![slogan](/assets/slogan.png)
+
 # Who are we?
 Hi, we are Team Incognito, comprising of You Sheng, Qingyi, Joey and Chloe. We are currently Year 1 students from Nanyang Technological University, studying Business and Computing.
 
