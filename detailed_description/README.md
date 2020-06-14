@@ -13,7 +13,7 @@ Being at the scene of an incident may be terrifying and stressful, which is why 
 
 When the responder opts to message 995, or if SCDF hotline is overcrowded, they will receive an SMS link to our Website, Waterfall. There they will report the incident they have witnessed by uploading a photo of the incident.
 
-Utilising a photos option instead of text or criteria selection, we minimise the time taken for the user to provide vital information. The photo then can be analysed by our Image Recognition AI
+Utilising a photos option instead of text or criteria selection, we minimise the time taken for the user to provide vital information. The photo then can be analysed by our Image Recognition AI.
 
 ## Image Recognition
 
