@@ -70,12 +70,15 @@ The website dashboard is real-time, and will display changes made by the respond
 
 ## Websites
 
-Website Dashboard: <https://scdf-incognito.us-south.cf.appdomain.cloud/>
+### Website Dashboard
+
+<https://scdf-incognito.us-south.cf.appdomain.cloud/>
 
 [![Website Dashboard](assets/dashboard.png)](https://scdf-incognito.us-south.cf.appdomain.cloud/ "Website Dashboard")
 
+### Responder Website
 
-Responder Website: <https://scdf-incognito.us-south.cf.appdomain.cloud/responder>
+<https://scdf-incognito.us-south.cf.appdomain.cloud/responder>
 
 [![Responder Website](assets/responder.png)](https://scdf-incognito.us-south.cf.appdomain.cloud/responder "Responder Website")
 
@@ -83,9 +86,13 @@ Responder Website: <https://scdf-incognito.us-south.cf.appdomain.cloud/responder
 
 ### Pitch Demo
 
+<http://www.youtube.com/watch?v=1HaF9XjFhiY>
+
 [![Pitch Demo](http://img.youtube.com/vi/1HaF9XjFhiY/0.jpg)](http://www.youtube.com/watch?v=1HaF9XjFhiY "Pitch Demo")
 
 ### Real-time Car Crash Recognition
+
+<http://www.youtube.com/watch?v=0Owg8Iriz28>
 
 [![Real Time Car Crash Recognition](http://img.youtube.com/vi/0Owg8Iriz28/0.jpg)](http://www.youtube.com/watch?v=0Owg8Iriz28 "Real Time Car Crash Recognition")
 
