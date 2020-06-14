@@ -1,3 +1,5 @@
+# Who are we?
+Hi, we are Team Incognito, comprising of You Sheng, Qingyi, Joey and Chloe. We are currently year 1 students from Nanyang Technological University, studying Business and Computing.
 
 # What’s the problem?
 
