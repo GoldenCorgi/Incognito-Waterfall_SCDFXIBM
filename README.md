@@ -7,6 +7,8 @@ Team Incognito comprises of You Sheng, Qingyi, Joey and Chloe. We are currently 
 
 # Short Description
 
+Waterfall - An End to End Incident Reporting System with Real-time Image Classification using IBM Cloud, aiming to reduce "time to dispatch" by speeding up accurate information gathering that are traditionally done by 995 voice calls.
+
 ## What’s the problem?
 
 During traditional emergency voice calls, people may panic and it would take time to convey important information for SCDF Operators to dispatch. However, time is key in such emergencies and every second could make the difference between life and death.
