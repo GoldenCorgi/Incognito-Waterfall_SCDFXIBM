@@ -1,5 +1,4 @@
 
-
 # Detailed description
 
 ![logo](/assets/logo.png)
@@ -12,7 +11,7 @@ Being at the scene of an incident may be terrifying and stressful, which is why 
 
 ## Features
 
-When the responder opts to message 995, or if SCDF hotline is overcrowded, they will receive an SMS link to our Website, Waterfall. There they will report the incident they have witnessed by uploading a photo of the incident. 
+When the responder opts to message 995, or if SCDF hotline is overcrowded, they will receive an SMS link to our Website, Waterfall. There they will report the incident they have witnessed by uploading a photo of the incident.
 
 Utilising a photos option instead of text or criteria selection, we minimise the time taken for the user to provide vital information. The photo then can be analysed by our Image Recognition AI
 
@@ -33,10 +32,9 @@ Furthermore, the use of these tags will make accessing the location faster, as e
 Emergency operators are able to use the NLP translator when the responder that calls in is unable to speak English. This is especially useful since a big portion of the aging and vulnerable population is unable to speak in English. With the NLP translation, there will be minimal delay in the communication between the emergency operators and the responder. This minimises emergency response time to provide timely treatment.
 
 ## Text to Speech
-To provide responders with assistance and reassurance, helpful guides on what to do while waiting for help will be provided in the form of both text and audio. By clicking on the audio button on the responder website, the text will be read aloud to responders. This will be extremely useful to the vulnerable populations that may have difficulty with reading the text guides.
 
+To provide responders with assistance and reassurance, helpful guides on what to do while waiting for help will be provided in the form of both text and audio. By clicking on the audio button on the responder website, the text will be read aloud to responders. This will be extremely useful to the vulnerable populations that may have difficulty with reading the text guides.
 
 ## Conclusion
 
 Waterfall is the solution that minimises emergency response time by using technology and data analytics to provide quicker and better aid as well as potentially save more lives in emergency situations.
-

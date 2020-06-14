@@ -20,6 +20,7 @@ Using Waterfall, instead of the traditional voice-call to relay information slow
 These essential information will be clearly displayed as a dashboard on Waterfall for SCDF personnel. Waterfall will also provide helpful guides to responders and these guides are translated to multiple languages using the IBM Watson Translator. With the IBM Watson Text To Speech, these guides will be available in the form of both text and audio.
 
 # The architecture of your proposed solution
+
 ![architecture](/assets/architecture.png)
 
 # Detailed description
@@ -30,7 +31,7 @@ These essential information will be clearly displayed as a dashboard on Waterfal
 
 ![roadmap](/assets/roadmap.png)
 
-Our group has developed a working prototype at the link given (Please contact us if the website is not up, as IBM Cloud Foundry Free Tier will stop running after a few days of inactivity. Some of the AI have API limits as well, do let us know if there are any issues with the features mentioned). 
+Our group has developed a working prototype at the link given (Please contact us if the website is not up, as IBM Cloud Foundry Free Tier will stop running after a few days of inactivity. Some of the AI have API limits as well, do let us know if there are any issues with the features mentioned).
 
 However, we faced several limitations due to the free tiers of the cloud technologies.
 
@@ -44,9 +45,7 @@ The free tier does not allow SMS to numbers, and thus not available for developm
 
 - Google Maps - Free Tier Google Cloud Platform
 
-We cannot access Google Maps API without adding billing. In the future, we plan to have a real-time updated map on the dashboard which will show the exact location of the responders. Google Maps API can also determine city names given the latitude and longitude that we are receiving from the GPS. 
-
-
+We cannot access Google Maps API without adding billing. In the future, we plan to have a real-time updated map on the dashboard which will show the exact location of the responders. Google Maps API can also determine city names given the latitude and longitude that we are receiving from the GPS.
 
 # Getting started / Usage Guide
 
